@@ -3,3 +3,5 @@ In this project, I analyzed and created visualizations of the S&P500 share price
 
 
 Click [here](https://1drv.ms/u/c/333c8f57612eaddd/Ee2t0JoHL8FCrZ4Rcib4EdQBh4TAzEvljG48tcx9llee5Q?e=RetUfu) to view the report.
+
+![output](https://github.com/user-attachments/assets/6e07d2b2-6b1a-47bb-bfc5-c125082b573f)
